@@ -12,17 +12,17 @@
 ## Структура проекта
 
 etl_final_project/
-├── dags/
-│   ├── etl_mongo_to_postgres.py
-│   └── build_datamarts.py
-├── scripts/
-│   └── generator.py
-├── sql/
-│   └── create_tables.sql
-├── logs/
-├── screenshots/
-├── docker-compose.yml
-└── README.md
+  dags/
+    etl_mongo_to_postgres.py
+    build_datamarts.py
+  scripts/
+    generator.py
+  sql/
+    create_tables.sql
+  logs/
+  screenshots/
+  docker-compose.yml
+  README.md
 ## Какие данные используются:
 
 
