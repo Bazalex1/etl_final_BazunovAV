@@ -10,7 +10,7 @@
 - построены 2 аналитические витрины  в Airflow (с screen6 по screen9)
 
 ## Структура проекта
-
+```text
 etl_final_project/
   dags/
     etl_mongo_to_postgres.py
@@ -23,6 +23,7 @@ etl_final_project/
   screenshots/
   docker-compose.yml
   README.md
+```
 ## Какие данные используются:
 
 
